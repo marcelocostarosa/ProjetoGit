@@ -1,1 +1,2 @@
-Esse eh o primeiro teste de uso do Git
+Esse eh o primeiro teste de uso do Git 
+- segundo teste
